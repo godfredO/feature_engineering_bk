@@ -1,1 +1,1 @@
-Code follow through of Feature Engineering by Alice Zheng
+Code for Feature Engineering for Machine Learning by Alice Zheng and Amanda Casari
